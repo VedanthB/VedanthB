@@ -32,7 +32,7 @@
 ---
 
 
-[![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedanthB)](https://github.com/anuraghazra/github-readme-stats)
+[![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedanthB&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
