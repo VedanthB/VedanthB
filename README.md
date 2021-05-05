@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm [vedanth][website] 👋
 
 - 🌱 I’m currently learning fullstack React🤣
 - 👯 I’m looking to collaborate with others on anything interesting.
