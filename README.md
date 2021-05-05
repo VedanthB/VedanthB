@@ -1,6 +1,6 @@
 ### Hi there, I'm [vedanth][website] 👋
 
-- 🌱 I’m currently learning fullstack React🤣
+- 🌱 I’m currently learning fullstack React
 - 👯 I’m looking to collaborate with others on anything interesting.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
