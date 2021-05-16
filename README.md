@@ -56,6 +56,9 @@
 </table>
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=whatsssappp-NEXTjs)](https://github.com/VedanthB/whatsssappp-NEXTjs)
+
+
 
 </details>
 
