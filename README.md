@@ -56,7 +56,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=MERN-Auth)](https://github.com/VedanthB/MERN-Auth)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=React-Login-form-with-animations)](https://github.com/VedanthB/React-Login-form-with-animations)
 
 
 </details>
