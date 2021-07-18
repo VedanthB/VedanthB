@@ -55,7 +55,7 @@
 </table>
 
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=whatsssappp-NEXTjs)](https://github.com/VedanthB/whatsssappp-NEXTjs) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=MERN-Auth)](https://github.com/VedanthB/MERN-Auth)
 
 
 
