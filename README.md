@@ -1,8 +1,8 @@
 ### Hi there, I'm [vedanth][website] 👋
 
-- 🌱 I’m currently learning fullstack React
+- 🌱 I’m currently practing DSA with javascript and learning as i building projects with various javascript libraries and packages.
 - 👯 I’m looking to collaborate with others on anything interesting.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects and understand Javascript and React in-depth.
 
 
 ### Connect with me:
