@@ -55,10 +55,10 @@
 </table>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=airpods-max-3d-animated-card-on-react)](https://github.com/VedanthB/airpods-max-3d-animated-card-on-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=MERN-Auth)](https://github.com/VedanthB/MERN-Auth)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=React-Login-form-with-animations)](https://github.com/VedanthB/React-Login-form-with-animations)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=glass-newsletter-card-react)](https://github.com/VedanthB/glass-newsletter-card-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=le-netflix)](https://github.com/VedanthB/le-netflix)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=le-social-media)](https://github.com/VedanthB/le-social-media)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=le-eCommerce)](https://github.com/VedanthB/le-eCommerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=le-airbnb)](https://github.com/VedanthB/le-airbnb)
 
 </details>
 
