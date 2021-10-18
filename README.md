@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm vedanth</h1>
+
 <h3 align="center">I design and build cool user interfaces</h3>
 
 <p align="left"> <a href="https://twitter.com/vedanth56353395" target="blank"><img src="https://img.shields.io/twitter/follow/vedanth56353395?logo=twitter&style=for-the-badge" alt="vedanth56353395" /></a> </p>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=VedanthB&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+
 
 - 👨‍💻 All of my projects are available at [https://vedanthbora.vercel.app/](https://vedanthbora.vercel.app/)
 
