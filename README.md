@@ -39,10 +39,10 @@
 
 </details>
 
- 
+<!--  
 [![vedanths's github activity graph](https://activity-graph.herokuapp.com/graph?username=VedanthB&theme=xcode)](https://github.com/VedanthB)
   
-
+ -->
 
 [website]: https://vedantha-ab2fa.web.app
 [twitter]: https://twitter.com/vedanth56353395
