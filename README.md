@@ -6,7 +6,7 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=VedanthB&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  -->
 
-- 👨‍💻 All of my projects are available at [https://vedanthbora.vercel.app/](https://vedanthbora.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.vedanthbora.com/](https://www.vedanthbora.com/)
 
 - 📝 I regularly write articles on [https://dev.to/vedanthb](https://dev.to/vedanthb)
 
