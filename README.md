@@ -31,6 +31,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanthb&theme=tokyonight" />
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=bloggingly-frontend)](https://github.com/VedanthB/bloggingly-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=bloggingly-backend)](https://github.com/VedanthB/bloggingly-backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=le-netflix)](https://github.com/VedanthB/le-netflix)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedanthB&repo=le-airbnb)](https://github.com/VedanthB/le-airbnb)
 
