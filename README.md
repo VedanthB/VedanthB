@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am a Frontend Maestro and a perpetual optimist, crafting digital canvases. I currently work as a UI Engineer at [@Flipkart](https://www.flipkart.com/), my work centers on a data-driven and rapid experimentation model, designed to optimize the entire shopping journey. Our focus is on increasing platform GMV (Gross Merchandise Value) and growing Monthly Active Customers, while catering to a vast user base of approximately 150 million active users.
+I’m Vedanth—a frontend engineer who likes fast UIs, clean APIs, and shipping. I’ve launched a lot of growth experiments and features for very busy screens, and I care about a11y, testing, and Web Vitals more than is probably normal. When I’m not pushing pixels, I’m mixing tracks and poking at generative-AI toys.
 
 ## 🌐 Socials:
 
