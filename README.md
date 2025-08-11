@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I’m Vedanth—a frontend engineer who likes fast UIs, clean APIs, and shipping. I’ve launched a lot of growth experiments and features for very busy screens, and I care about a11y, testing, and Web Vitals more than is probably normal. When I’m not pushing pixels, I’m mixing tracks and poking at generative-AI toys.
+I’m Vedanth - a frontend engineer who likes fast UIs, clean APIs, and shipping. I’ve launched a lot of growth experiments and features for very busy screens, and I care about a11y, testing, and Web Vitals more than is probably normal. When I’m not pushing pixels, I’m mixing tracks and poking at generative-AI toys.
 
 ## 🌐 Socials:
 
