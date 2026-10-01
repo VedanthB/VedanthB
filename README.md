@@ -6,7 +6,7 @@ I build AI products at [Krazimo](https://krazimo.com/), taking work from product
 
 - **[Orbit 8](https://getorbit8.com)** — Primary engineer behind this AI community-management product for creators, taking it from application architecture through full-stack implementation and delivery. My work spans the product interface, APIs, account-scoped data, AI reply workflows and provider integrations, including tools for teaching, previewing and refining a creator's voice.
 - **[AINGEL](https://aingeleq.com)** — Co-built this customer-support intelligence product as one of two engineers. My ownership includes customer-facing dashboards, saved views, supporting product APIs, data-model changes and safe concurrent updates, alongside work on the in-product Copilot experience.
-- **[Flipkart](https://www.flipkart.com) · [Flipkart Minutes](https://www.flipkart.com/flipkart-minutes-store)** — UI engineering consultant across React and React Native shopping experiences on iOS, Android and the web. Built reusable UI, cart/checkout features and a configuration-driven address-switching component used across Flipkart products.
+- **[Flipkart](https://www.flipkart.com) · [Flipkart Minutes](https://www.flipkart.com/flipkart-minutes-store)** — Software Engineer (UI) at Flipkart, working across React and React Native shopping experiences on iOS, Android and the web. Built reusable UI, cart/checkout features and a configuration-driven address-switching component used across Flipkart products.
 
 ### Landed open-source work
 
