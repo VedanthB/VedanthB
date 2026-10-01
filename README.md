@@ -1,13 +1,12 @@
 # Hi, I'm Vedanth
 
-I build AI products at [Krazimo](https://krazimo.com/): product interfaces, backend integrations, agent workflows, and evaluation environments. My work connects React and TypeScript frontends with Python services, with a focus on reliable behavior and clear tests.
+I build AI products at [Krazimo](https://krazimo.com/), taking work from product requirements and architecture through full-stack implementation, testing and delivery. My experience spans creator tools, customer-support intelligence, commerce and computer-use research environments.
 
-### Selected product work
+### Selected product & architecture work
 
-At Krazimo, I contribute to shared AI products:
-
-- **[Orbit 8](https://getorbit8.com):** Voice Studio features for teaching, previewing and refining a creator’s reply voice, including product UI, APIs and versioned account-scoped storage.
-- **[AINGEL](https://aingeleq.com):** configurable dashboards, saved views and supporting product APIs, plus contributions to the in-product Copilot experience.
+- **[Orbit 8](https://getorbit8.com)** — Primary engineer behind this AI community-management product for creators, taking it from application architecture through full-stack implementation and delivery. My work spans the product interface, APIs, account-scoped data, AI reply workflows and provider integrations, including tools for teaching, previewing and refining a creator's voice.
+- **[AINGEL](https://aingeleq.com)** — Co-built this customer-support intelligence product as one of two engineers. My ownership includes customer-facing dashboards, saved views, supporting product APIs, data-model changes and safe concurrent updates, alongside work on the in-product Copilot experience.
+- **[Flipkart](https://www.flipkart.com) · [Flipkart Minutes](https://www.flipkart.com/flipkart-minutes-store)** — UI engineering consultant across React and React Native shopping experiences on iOS, Android and the web. Built reusable UI, cart/checkout features and a configuration-driven address-switching component used across Flipkart products.
 
 ### Landed open-source work
 
