@@ -2,6 +2,13 @@
 
 I build AI products at [Krazimo](https://krazimo.com/): product interfaces, backend integrations, agent workflows, and evaluation environments. My work connects React and TypeScript frontends with Python services, with a focus on reliable behavior and clear tests.
 
+### Selected product work
+
+At Krazimo, I contribute to shared AI products:
+
+- **[Orbit 8](https://getorbit8.com):** Voice Studio features for teaching, previewing and refining a creator’s reply voice, including product UI, APIs and versioned account-scoped storage.
+- **[AINGEL](https://aingeleq.com):** configurable dashboards, saved views and supporting product APIs, plus contributions to the in-product Copilot experience.
+
 ### Landed open-source work
 
 - **[Google ADK](https://github.com/google/adk-python/commit/557643bb32bd53696b1697d0bc9508ecbe3a27c6):** fixed unintended state sharing in returned sessions and added regression tests for copy behavior. Accepted through Google's Copybara workflow.
