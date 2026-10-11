@@ -2,6 +2,10 @@
 
 I build AI products at [Krazimo](https://krazimo.com/), taking work from product requirements and architecture through full-stack implementation, testing and delivery. My experience spans creator tools, customer-support intelligence, commerce and computer-use research environments.
 
+### Certification
+
+[Claude Certified Architect - Foundations](https://www.credly.com/badges/489da60c-7764-48e6-89d6-54aae96dcd03/public_url) · Anthropic · Issued 3 October 2026 · Valid through 3 October 2027.
+
 ### Selected product & architecture work
 
 - **[Orbit 8](https://getorbit8.com)** — Primary engineer behind this AI community-management product for creators, taking it from application architecture through full-stack implementation and delivery. My work spans the product interface, APIs, account-scoped data, AI reply workflows and provider integrations, including tools for teaching, previewing and refining a creator's voice.
