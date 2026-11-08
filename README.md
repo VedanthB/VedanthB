@@ -14,9 +14,12 @@ I build AI products at [Krazimo](https://krazimo.com/), taking work from product
 
 ### Landed open-source work
 
+- **[browser-use](https://github.com/browser-use/browser-use/pull/5676):** fixed Bedrock image URL handling for query strings and added tests for image formats and URL edge cases.
 - **[Google ADK](https://github.com/google/adk-python/commit/557643bb32bd53696b1697d0bc9508ecbe3a27c6):** fixed unintended state sharing in returned sessions and added regression tests for copy behavior. Accepted through Google's Copybara workflow.
 - **[Microsoft Agent Framework](https://github.com/microsoft/agent-framework/pull/8097):** preserved ChatKit input tags and message ordering, including tag-only user messages.
-- **[browser-use](https://github.com/browser-use/browser-use/pull/5676):** fixed Bedrock image URL handling for query strings and added tests for image formats and URL edge cases.
+- **[Weaviate Python client](https://github.com/weaviate/weaviate-python-client/pull/2213):** isolated cached embedded binaries for custom download URLs.
+- **[Google Magika](https://github.com/google/magika/pull/1442):** added test samples for basic data-science file formats.
+- **[PR-Agent](https://github.com/The-PR-Agent/pr-agent/pull/3043):** made the provider support matrix single-source and [synced GitBook navigation with MkDocs](https://github.com/The-PR-Agent/pr-agent/pull/3044).
 
 ### Tools I've built
 
